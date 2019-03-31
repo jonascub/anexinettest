@@ -1,0 +1,7 @@
+C:\Users\aleja\source\repos\AnexinetTechTest\AnexinetTechTest\bin\Debug\AnexinetTechTest.exe.config
+C:\Users\aleja\source\repos\AnexinetTechTest\AnexinetTechTest\bin\Debug\AnexinetTechTest.exe
+C:\Users\aleja\source\repos\AnexinetTechTest\AnexinetTechTest\bin\Debug\AnexinetTechTest.pdb
+C:\Users\aleja\source\repos\AnexinetTechTest\AnexinetTechTest\obj\Debug\AnexinetTechTest.csprojAssemblyReference.cache
+C:\Users\aleja\source\repos\AnexinetTechTest\AnexinetTechTest\obj\Debug\AnexinetTechTest.csproj.CoreCompileInputs.cache
+C:\Users\aleja\source\repos\AnexinetTechTest\AnexinetTechTest\obj\Debug\AnexinetTechTest.exe
+C:\Users\aleja\source\repos\AnexinetTechTest\AnexinetTechTest\obj\Debug\AnexinetTechTest.pdb
